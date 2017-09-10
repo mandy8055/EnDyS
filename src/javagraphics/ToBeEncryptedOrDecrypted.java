@@ -197,11 +197,11 @@ public class ToBeEncryptedOrDecrypted extends javax.swing.JFrame
         dispose();
         if(encryptOrDecrypt.equalsIgnoreCase("encrypt"))
         {
-            new PasswordTakerForEncryption(listOfFilesAndFolders).setVisible(true);
+            new PasswordAcceptorForEncryption(listOfFilesAndFolders).setVisible(true);
         }
         else if(encryptOrDecrypt.equalsIgnoreCase("decrypt"))
         {
-            new PasswordTakerForDecryption(listOfFilesAndFolders).setVisible(true);
+            new PasswordAcceptorForDecryption(listOfFilesAndFolders).setVisible(true);
         }
 
 
