@@ -10,7 +10,7 @@ import javax.swing.*;
  *
  * @author Manuj Sankrit
  */
-public class EncryptorAndDecryptor {
+public class EncryptorAndDecryptor extends SwingWorker<Boolean, Boolean> {
     File[] listOfFilesAndFolders;
     String encryptOrDecrypt;
     String key;

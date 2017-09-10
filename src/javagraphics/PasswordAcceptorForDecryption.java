@@ -12,8 +12,9 @@ import javax.swing.JOptionPane;
  *
  * @author Manuj Sankrit
  */
-public class PasswordAcceptorForDecryption {
 
+public class PasswordAcceptorForDecryption extends javax.swing.JFrame
+{
     private File[] listOfFilesAndFolders;
     public PasswordAcceptorForDecryption(File[] listOfFilesAndFolders)
     {
