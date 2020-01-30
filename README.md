@@ -1,4 +1,4 @@
-ar# EnDyS
+# EnDyS
 EnDy Software application is a GUI based file encryption software which encrypts and decrypts user files of any perspective. Facilitate immunity to those files which is only intended to be used by the user. Can be used to send the encrypted files to other systems over the networks as well.
 
 So do you wish to convert your music to a form in which others cannot listen it? or do you wish to convert your movies to a form in which others cannot watch them? or do you wish to convert your documents to a form in which others cannot read them? or else do you wish to convert your executable files to a form in which others cannot execute them?
